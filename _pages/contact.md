@@ -1,9 +1,11 @@
 ---
 layout: contact
-title: Contact
+title: contact
 permalink: /contact/
 ---
 
-_Write_ **something** about [yourself](https://www.google.com/search?q=who+am+i) here.
+My name is Eduardo and I am a web developer.
 
-Also, you might not want to display this many modes of contact.
+I build web pages and web applications using HTML/CSS and JavaScript. I blog to inspire aspiring self-taught web developers.
+
+_Contact me:_

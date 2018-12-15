@@ -4,6 +4,7 @@ title: Splash
 permalink: /splash/
 ---
 
-I'm [brettinternet](http://www.brettgardiner.net/about/).
+Welcome to **_The Leap Of Faith_**.
 
-Read my tech [blog](http://www.brettgardiner.net) or find me on social media.
+A web development self-teaching documentation.
+Read the full story [here]({{ site.baseurl }}/).

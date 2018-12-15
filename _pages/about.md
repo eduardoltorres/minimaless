@@ -1,15 +1,18 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /about/
 ---
 
-This is a Jekyll theme called Minimaless. It's forked from the popular theme Minima. It's like Minima, but there's less noise.
+The Leap Of Faith is the journal of a web developer.
 
-This is a good theme for portfolios and blogs. It's not a good theme for meeting hot singles in your area. You can see a production example of this site on the author's [blog](http://www.brettgardiner.net). Check out the source code for this Jekyll theme:
+I have been documenting my self-teaching journey since the beginning.
 
-[brettinternet<i class="fa fa-external-link"></i>](https://github.com/brettinternet){:target="_blank"} /
-[minimaless<i class="fa fa-external-link"></i>](https://github.com/brettinternet/minimaless){:target="_blank"}.
+Two months later, I have succeded in undergoing over 60 hours of web development training, creating over 20 projects using over 10 different web development technologies, and connecting with other web developers and entrepeneurs. As I'm writing this, I am continously growing.
+
+This is the story of how I took a leap of faith into the web development world. **This** is my story.
+
+
 
 <br/>
-Visit this site's [blog]({{site.baseurl}}) or [contact]({{site.baseurl}}/contact/) page.
+Visit this site's [blog]({{site.baseurl}}/) or [contact]({{site.baseurl}}/contact/) page.

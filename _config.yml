@@ -1,25 +1,25 @@
-title: Minimaless Demo
-author: GitHub User
-email: your-email@domain.com
+title: The Leap Of Faith
+author: Eduardo L. Torres
+email: eltorrescuesta@gmail.com
 description: >
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
-baseurl: "/minimaless" # the subpath of your site, e.g. /blog
-url: "http://www.brettgardiner.net/minimaless" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/the-leap-of-faith" # the subpath of your site, e.g. /blog
+url: https://eduardoltorres.github.io/the-leap-of-faith/ # the base hostname & protocol for your site, e.g. http://example.com
 
-website: https://www.brettinternet.com
-github_username:  brettinternet
-bitbucket_username: brettinternet
-codepen_username: brettinternet
-linkedin_username: brettinternet
-twitter_username: brettinternet
-facebook_username: brettinternet
-instagram_username: brettinternet
-keybase_username: brettinternet
-paypal_username: brettinternet
-stackoverflow_username: brettinternet # (developer story)
+# website: https://www.brettinternet.com
+github_username:  eduardoltorres
+# bitbucket_username: brettinternet
+# codepen_username: brettinternet
+linkedin_username: eltorres
+twitter_username: eltorres720
+# facebook_username: brettinternet
+# instagram_username: brettinternet
+# keybase_username: brettinternet
+# paypal_username: brettinternet
+# stackoverflow_username: brettinternet # (developer story)
 
 
 collections:
@@ -43,8 +43,8 @@ header_pages:
   - _pages/blog.md
   - _pages/about.md
   - _pages/contact.md
-  - _pages/setup.md
-  - _pages/github.md
+  # - _pages/setup.md
+  # - _pages/github.md
 
 plugins:
   - jekyll-feed
