@@ -29,6 +29,9 @@ collections:
 # disqus:
 #   shortname:
 
+# Analytics
+google_analytics: UA-NNNNNNNN-N
+
 # Minimaless date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minimaless:
