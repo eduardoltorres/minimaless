@@ -2,7 +2,7 @@
 title: 'My First Iframe Tag'
 author: Eduardo
 layout: post
-permalink: /my-first-iframe=tag/
+permalink: /my-first-iframe-tag/
 categories:
   - Blog post
 tags: html personal-projects
