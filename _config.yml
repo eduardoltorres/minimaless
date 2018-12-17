@@ -10,7 +10,7 @@ description: >
 # baseurl: "/splash" # the subpath of your site, e.g. /blog
 url: http://theleapofaith.com # the base hostname & protocol for your site, e.g. http://example.com
 
-website: http://eduardoltorres.com
+website: https://damp-sea-21921.herokuapp.com/
 github_username:  eduardoltorres
 # bitbucket_username: brettinternet
 # codepen_username: brettinternet
