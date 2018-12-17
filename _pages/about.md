@@ -15,4 +15,4 @@ This is the story of how I took a leap of faith into the web development world. 
 
 
 <br/>
-Visit this site's [blog]({{site.baseurl}}/) or [contact]({{site.baseurl}}/contact/) page.
+Visit this site's [blog]({{site.url}}/) or [contact]({{site.url}}/contact/) page.
