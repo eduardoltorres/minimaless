@@ -1,5 +1,5 @@
 ---
-title: "How To Create An Array Of Specific Length?"
+title: "How to Create an Array of Specific Length?"
 author: Eduardo
 layout: post
 categories:
