@@ -12,7 +12,7 @@ I call the most difficult moments, at which to decide which way to take, **knowl
 
 **Now, I'm at another crossroad.**
 
-In a [previous post]({{site.url}}/goals-2019/), I shared an image of a Trello board which contained the technologies I wanted to master in order to become the web developer I wanted to be. You guessed it, this changed too. I think the word "change" gives it a bad connotation; I shall say, it **evolved**.
+In a [previous post]({{site.url}}/goals-2019), I shared an image of a Trello board which contained the technologies I wanted to master in order to become the web developer I wanted to be. You guessed it, this changed too. I think the word "change" gives it a bad connotation; I shall say, it **evolved**.
 
 So, what's the road I am taking now? Once again, I feel like I face the giant: React. The question is not anymore whether I should learn React. I already decided it: I **will** learn it. But am I ready?
 
