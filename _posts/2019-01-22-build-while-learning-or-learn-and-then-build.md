@@ -37,6 +37,6 @@ Lastly, every single day I'm listening to [Syntax](https://syntax.fm/) and watch
 
 I'm just going to share the resources I've been using for these last technologies I mentioned:
 - [Webpack's Documentation](https://webpack.js.org/guides/)
-- [Node JS Tutorial for Beginners](https://www.youtube.com/watch?v=w-7RQ46RgxU) by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-- [SASS Tutorial](https://www.youtube.com/watch?v=St5B7hnMLjg) by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [Node JS Tutorial for Beginners](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [SASS Tutorial](https://www.youtube.com/watch?v=St5B7hnMLjg&list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA) by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [Gulp JS Crash Course](https://www.youtube.com/watch?v=1rw9MfIleEg) by [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
