@@ -1,5 +1,5 @@
 ---
-title: "PracticeFrom Design to Code"
+title: "Practice From Design to Code"
 author: Eduardo
 layout: post
 categories:
