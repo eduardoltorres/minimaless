@@ -28,4 +28,4 @@ Many roads point towards WooCommerce, but to be honest, I really don't want to g
 
 Perhaps the easiest to set up would be Shopify, for clients that want something decent, and the hardest through Reaction Commerce, for clients that want something highly custom. Snipcart could be an in-between?
 
-What e-commerce platform do you use or recommend? Let me know on [Twitter](https://twitter.com/eltorres720)!
+What e-commerce platform do you use or recommend? Let me know on [Twitter](https://twitter.com/_eduardoltorres)!

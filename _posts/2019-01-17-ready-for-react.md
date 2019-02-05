@@ -49,4 +49,4 @@ All of these resources suggest different yet similar roads. Which one to take, i
 
 I am highly considering starting my React journey soon with [Wes Bos'](https://wesbos.com) amazing courses, but first I might get into some Sass, Gulp, and Webpack. I think I will complement the course with articles and videos on CSS/JS Design Pattenrs and Data Structures and Algorithms. But you know me, this could change. I'll let you know how it goes.
 
-What road do you think is the right one for you? [Let me know!](https://twitter.com/eltorres720)
+What road do you think is the right one for you? [Let me know!](https://twitter.com/_eduardoltorres)

@@ -26,6 +26,6 @@ In this case, the div. */
 }
 ```
 
-If you have any questions, ask me on [Twitter](https://twitter.com/eltorres720) or check out day 16 of [JavaScript 30](https://javascript30.com/) for the full exercise.
+If you have any questions, ask me on [Twitter](https://twitter.com/_eduardoltorres) or check out day 16 of [JavaScript 30](https://javascript30.com/) for the full exercise.
 
 Hope this helps!

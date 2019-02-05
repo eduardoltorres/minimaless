@@ -36,6 +36,6 @@ If you're like me, you want to implement the best practices, write clean and eff
 
 You shouldn't experiment **AND** at the same time try to be efficient. Efficient code is not separate from your HTML structure, for example, and if you're manipulating the DOM, you'll be changing your structure constantly, then you'll be doing double the work: experimenting + refactoring.
 
-What's your workflow? Let [me](https://twitter.com/eltorres720) know.
+What's your workflow? Let [me](https://twitter.com/_eduardoltorres) know.
 
 P.S. why under 🚧? Well, I'm just experimenting with it🙂

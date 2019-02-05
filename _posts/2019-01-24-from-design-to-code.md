@@ -14,4 +14,4 @@ Also, this reminds me of that [article](https://www.thinkful.com/blog/why-learni
 
 ...and because I'm in despair, I'm going to leave it here and continue working on a few unsolved problems that robbed my sleep last night.
 
-At what stage do you think you are? Let me know on [Twitter](https://twitter.com/eltorres720).
+At what stage do you think you are? Let me know on [Twitter](https://twitter.com/_eduardoltorres).

@@ -20,4 +20,4 @@ It doesn't have to be anything fancy. Pen and paper never fails. You can also us
 
 This works for me because it takes out the "how do I make this work?" mental process out of the way when I'm coding. It makes you figure it out beforehand. To me, that is the hardest part of programming.
 
-Does this work for you? [Let me know](https://twitter.com/eltorres720) what you think!
+Does this work for you? [Let me know](https://twitter.com/_eduardoltorres) what you think!

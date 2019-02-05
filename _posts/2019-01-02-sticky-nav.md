@@ -31,4 +31,4 @@ You might think that it is the navbar directly that one would modify. This is an
 
 These are clean, efficient and creative ways to handle popular problems.
 
-What do you think? Let me know on [Twitter](https://twitter.com/eltorres720).
+What do you think? Let me know on [Twitter](https://twitter.com/_eduardoltorres).

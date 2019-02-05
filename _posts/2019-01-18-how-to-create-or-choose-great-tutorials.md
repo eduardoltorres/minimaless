@@ -27,4 +27,4 @@ Yesterday, I started Wes Bos' [React for Beginners](https://reactforbeginners.co
 
 Like I said [yesterday]({{site.url}}/ready-for-react), I might complement React with some Sass, Gulp, Webpack and data structures and algorithms. I don't know how I will do it yet, but at the moment that is what sounds the most reasonable for me. I have been enjoying and learning a lot with the React course. I don't feel like it's too much to deal with it, on the contrary. Wes even makes comments on "if you're new to JavaScript" so he's well aware that his students are not necessarily experienced programmers.
 
-[Let me know](https://twitter.com/eltorres720) what you think about this too. Don't be shy! 🙂
+[Let me know](https://twitter.com/_eduardoltorres) what you think about this too. Don't be shy! 🙂

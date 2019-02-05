@@ -17,4 +17,4 @@ The cool thing about the *Paths* is that each module is different and most of th
 
 If you haven't tried Pluralsight, I recommend you go and sign up for the free trial. I'm not paid to promote them or anything like it. I just think it's worth trying.
 
-If you do, let me know what you think on [Twitter](https://twitter.com/eltorres720) or send me an email at eltorrescuesta@gmail.com, I'd love to hear what you have to say.
+If you do, let me know what you think on [Twitter](https://twitter.com/_eduardoltorres) or send me an email at eltorrescuesta@gmail.com, I'd love to hear what you have to say.

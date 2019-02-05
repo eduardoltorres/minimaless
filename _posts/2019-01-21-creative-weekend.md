@@ -14,4 +14,4 @@ Life hasn't always been like that for me. Of course I was once the person that d
 
 I played with [Codepen Challenges](https://codepen.io/challenges/), I began designing an architecture page on [Adobe Xd](https://www.adobe.com/products/xd.html), and I even applied for a remote job for a junior web developer position!
 
-I am yet to discover the true power of creative weekends, but I've began to experience it. What do you think about creative weekends? [Let me know!](https://twitter.com/eltorres720)
+I am yet to discover the true power of creative weekends, but I've began to experience it. What do you think about creative weekends? [Let me know!](https://twitter.com/_eduardoltorres)

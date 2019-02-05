@@ -18,4 +18,4 @@ So this is more or less what my last few days have been looking like:
 
 Studying is as important as building (although one could argue that building is more important) so I've decided to split my days between those two. I'll keep you posted on how that's going.
 
-How do you organize your days? Do you do both, study and build? Or just one? [Let me know!](https://twitter.com/eltorres720)
+How do you organize your days? Do you do both, study and build? Or just one? [Let me know!](https://twitter.com/_eduardoltorres)

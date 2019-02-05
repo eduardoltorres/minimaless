@@ -20,7 +20,7 @@ For me, it is way more daunting and challenging to face a project which I don't 
 
 Don't get me wrong, **BUILD**. But learn first. Perhaps a happy medium would be learn a little bit and build a little bit, then learn a little bit more and build a little bit more...at least I prefer knowing what's on my plate before deciding where to start.
 
-[What do you think?](https://twitter.com/eltorres720)
+[What do you think?](https://twitter.com/_eduardoltorres)
 
 #### What I've Been Doing
 I have been...wait for it...all over the place. I'm kidding. Well, I'm half kidding.
