@@ -4,7 +4,7 @@ author: Eduardo
 layout: post
 categories:
   - Blog post
-tags: personal-projects studies
+tags: personal-projects studies chingu
 ---
 
 I will probably be talking about [Chingu](https://chingu.io) most of the time for the next couple of months. I won't be formally reviewing the experience or the initiative, but I anticipate I will refer to it a lot since **[It]({{site.url}}/chingu-voyage-8)**. **Has**. **Started**.
