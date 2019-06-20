@@ -8,7 +8,7 @@ The Leap of Faith is the journal of a web developer.
 
 I have been documenting my self-teaching journey since the beginning.
 
-Four months later, I have succeded in undergoing over 600 hours of web development training and practice, creating over 50 course and side-projects using over 10 different web development technologies, and connecting with other web developers and entrepeneurs. As I write this, I am continously growing.
+More than one year later, I have succeded in undergoing innumerable hours of web development training and practice, creating over 60 course and side-projects using over 10 different web development technologies, and connecting with other web developers and entrepeneurs. As I write this, I am continously growing.
 
 This is the story of how I took a leap of faith into the web development world. This is my story.
 
