@@ -4,13 +4,11 @@ title: about
 permalink: /about/
 ---
 
-The Leap of Faith is the journal of a web developer.
+The Leap of Faith is my coding journal.
 
-I have been documenting my self-teaching journey since the beginning.
+I have been documenting my self-teaching journey into the software engineering world since the beginning.
 
-More than one year later, I have succeded in undergoing innumerable hours of web development training and practice, creating over 60 course and side-projects using over 10 different web development technologies, and connecting with other web developers and entrepeneurs. As I write this, I am continously growing.
-
-This is the story of how I took a leap of faith into the web development world. This is my story.
+More than one year later, I have succeded in undergoing innumerable hours of training and practice, creating over 60 course and side-projects using over 10 different web development technologies, and connecting with other software engieneers. As I write this, I am continously growing.
 
 <br/>
 Visit this site's [blog]({{site.url}}/) or [contact]({{site.url}}/contact/) page.
