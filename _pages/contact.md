@@ -4,8 +4,8 @@ title: contact
 permalink: /contact/
 ---
 
-My name is Eduardo and I am a web developer.
+Hi there, my name is Eduardo.
 
-I build web pages and web applications using HTML/CSS, JavaScript, React, and other technologies. I blog to inspire aspiring self-taught web developers.
+If you'd like to work together, ask me something or just simply say hi, feel free to do so through any of the mediums listed below.
 
 _Contact me:_
